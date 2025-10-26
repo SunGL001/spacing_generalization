@@ -40,7 +40,7 @@ Experiments demonstrate that these strategies significantly improve model genera
 
 <div align="center">
 <p align="center">
-<img src="diagram.png" width="800" height="400">
+<img src="diagram.png" width="1200" height="600">
 </p>
   [Figure 1: Overview of the spacing effect in biological and artificial systems (Image from Figure 1 of the paper)]
   <br/>
@@ -92,7 +92,7 @@ To train a neuronal-level model with spaced dropout, please run:
     --epochs 80 \
     --drop 0.5 \
     --dataset 'cifar100' \
-    --space 0.0  &\
+    --space 0.0  \
 
   python ./train.py \
     --gpu_ids  '0' \
@@ -101,7 +101,7 @@ To train a neuronal-level model with spaced dropout, please run:
     --epochs 80 \
     --drop 0.5 \
     --dataset 'cifar100' \
-    --space 1.0  &\
+    --space 1.0  \
   ```
 
 
@@ -119,7 +119,7 @@ To train a synaptic-level model with spaced EMA, please run:
     -alpha 0.99 \
     -epoch 80 \
     -lr 0.01 \
-    -gpu  &\
+    -gpu  \
 
 python ./train_EMA.py \
     -gpu_ids  '0' \
@@ -129,7 +129,7 @@ python ./train_EMA.py \
     -alpha 0.99 \
     -epoch 80 \
     -lr 0.01 \
-    -gpu  &\
+    -gpu  \
   ```
 
 
