@@ -40,7 +40,7 @@ Experiments demonstrate that these strategies significantly improve model genera
 
 <div align="center">
 <p align="center">
-<img src="diagram.pdf" width="800" height="400">
+<img src="diagram.png" width="800" height="400">
 </p>
   [Figure 1: Overview of the spacing effect in biological and artificial systems (Image from Figure 1 of the paper)]
   <br/>
@@ -173,7 +173,8 @@ To train a network-level model with spaced self KD, please run:
 ## 🧬 Biological Experiments
 This code repository focuses on the computational implementation for artificial neural networks (ANNs). For details on the biological experiments involving olfactory aversive conditioning in Drosophila (corresponding to Figures 4 & 5), please refer to the full PNAS paper.
 
-
+## 📧 Contact
+If you have any questions, please feel free to contact: sgl23@mails.tsinghua.edu.cn
 
 <!-- ## CITATION
 If you find our codes or paper useful, please consider giving us a star or citing our work.
