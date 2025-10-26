@@ -1,0 +1,6 @@
+torch==2.4.1+cu121
+torchvision==0.19.1+cu121
+wandb==0.16.3
+
+
+
