@@ -40,7 +40,7 @@ Experiments demonstrate that these strategies significantly improve model genera
 
 <div align="center">
 <p align="center">
-<img src="diagram.png" width="1200" height="600">
+<img src="diagram.png" width="1000" height="500">
 </p>
   [Figure 1: Overview of the spacing effect in biological and artificial systems (Image from Figure 1 of the paper)]
   <br/>
