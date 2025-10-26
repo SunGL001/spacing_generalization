@@ -6,10 +6,10 @@
   </div>
 
   <div>
-    <strong>Guanglong Sun</strong>,  
-    <strong>Ning Huang</strong>,
+    <a href="https://github.com/SunGL001"><strong>Guanglong Sun</strong></a>*,  
+    <strong>Ning Huang</strong></a>*,
     <a href="https://github.com/AnAppleCore"><strong>Hongwei Yan</strong></a>, 
-    <a href="https://lywang3081.github.io/"><strong>Liyuan Wang</strong></a>*,
+    <a href="https://lywang3081.github.io/"><strong>Liyuan Wang</strong></a>#,
     <strong>Jun Zhou</strong>,
     <strong>Qian Li</strong>,
     <strong>Bo Lei</strong>,
