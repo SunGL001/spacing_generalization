@@ -28,7 +28,7 @@
 
 ---
 
-This repository contains the official PyTorch implementation for the PNAS paper: **"Spacing effect improves generalization in biological and artificial systems"**.
+This repository contains the official PyTorch implementation for our paper: **"Spacing effect improves generalization in biological and artificial systems"**.
 
 Our study bridges neuroscience and artificial intelligence by investigating how the "spacing effect," a well-documented phenomenon in biological learning, can enhance the generalization capabilities of artificial neural networks (ANNs). We introduce bio-inspired "spaced ensemble" strategies implemented at three levels:
 
@@ -171,7 +171,7 @@ To train a network-level model with spaced self KD, please run:
 
 
 ## 🧬 Biological Experiments
-This code repository focuses on the computational implementation for artificial neural networks (ANNs). For details on the biological experiments involving olfactory aversive conditioning in Drosophila (corresponding to Figures 4 & 5), please refer to the full PNAS paper.
+This code repository focuses on the computational implementation for artificial neural networks (ANNs). For details on the biological experiments involving olfactory aversive conditioning in Drosophila (corresponding to Figures 4 & 5), please refer to the full paper.
 
 ## 📧 Contact
 If you have any questions, please feel free to contact: sgl23@mails.tsinghua.edu.cn
